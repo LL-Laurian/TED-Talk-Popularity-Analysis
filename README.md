@@ -25,6 +25,7 @@ TED-Talk-Popularity-Analysis/
 ├── R_code_Appendix.pdf            # R code for data cleaning, EDA, modeling, and diagnostics.
 ├── TEDTalkDescription.pdf         # Description of the project, dataset details, and research questions.
 └── (Additional files, e.g., raw data or supplementary materials)
+```
 
 ## How to Run the Analysis
 
